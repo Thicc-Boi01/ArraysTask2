@@ -1,0 +1,16 @@
+C:\Swinburne 2021\Programing\homestuff\ArraysTask2\obj\Debug\net5.0\ArraysTask2.csprojAssemblyReference.cache
+C:\Swinburne 2021\Programing\homestuff\ArraysTask2\obj\Debug\net5.0\ArraysTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swinburne 2021\Programing\homestuff\ArraysTask2\obj\Debug\net5.0\ArraysTask2.AssemblyInfoInputs.cache
+C:\Swinburne 2021\Programing\homestuff\ArraysTask2\obj\Debug\net5.0\ArraysTask2.AssemblyInfo.cs
+C:\Swinburne 2021\Programing\homestuff\ArraysTask2\obj\Debug\net5.0\ArraysTask2.csproj.CoreCompileInputs.cache
+C:\Swinburne 2021\Programing\homestuff\ArraysTask2\bin\Debug\net5.0\ArraysTask2.exe
+C:\Swinburne 2021\Programing\homestuff\ArraysTask2\bin\Debug\net5.0\ArraysTask2.deps.json
+C:\Swinburne 2021\Programing\homestuff\ArraysTask2\bin\Debug\net5.0\ArraysTask2.runtimeconfig.json
+C:\Swinburne 2021\Programing\homestuff\ArraysTask2\bin\Debug\net5.0\ArraysTask2.runtimeconfig.dev.json
+C:\Swinburne 2021\Programing\homestuff\ArraysTask2\bin\Debug\net5.0\ArraysTask2.dll
+C:\Swinburne 2021\Programing\homestuff\ArraysTask2\bin\Debug\net5.0\ref\ArraysTask2.dll
+C:\Swinburne 2021\Programing\homestuff\ArraysTask2\bin\Debug\net5.0\ArraysTask2.pdb
+C:\Swinburne 2021\Programing\homestuff\ArraysTask2\obj\Debug\net5.0\ArraysTask2.dll
+C:\Swinburne 2021\Programing\homestuff\ArraysTask2\obj\Debug\net5.0\ref\ArraysTask2.dll
+C:\Swinburne 2021\Programing\homestuff\ArraysTask2\obj\Debug\net5.0\ArraysTask2.pdb
+C:\Swinburne 2021\Programing\homestuff\ArraysTask2\obj\Debug\net5.0\ArraysTask2.genruntimeconfig.cache
